@@ -71,20 +71,20 @@ This assignment involves downloading and enhancing an existing Pygame-based proj
 
 ## Evaluation Criteria
 
-### 1. **Creativity and Functionality**
+### 1. **Creativity and Functionality** (20 Marks)
    - How creative and polished are the images and sound effects used?
    - Are new game features well implemented?
 
-### 2. **Code Quality**
-   - Is the code well-organized and easy to follow?
+### 2. **Code Quality** (05 Marks)
+
    - Are appropriate comments provided to explain changes?
 
-### 3. **Game Performance**
+### 3. **Game Performance** (20 Marks)
    - Does the game run smoothly without crashes or bugs?
    - Are there no issues with loading images or playing sounds?
 
-### 4. **Documentation**
-   - Is the README file updated with clear instructions on how to run the game and credit the used assets?
+### 4. **Documentation** (5 Marks)
+   - Is the README file updated with clear instructions on how to run the game?
 
 # Useful Links
 
