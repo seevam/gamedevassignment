@@ -83,7 +83,7 @@ This assignment involves downloading and enhancing an existing Pygame-based proj
    - Does the game run smoothly without crashes or bugs?
    - Are there no issues with loading images or playing sounds?
 
-### 4. **Documentation** (5 Marks)
+### 4. **Documentation** (05 Marks)
    - Is the README file updated with clear instructions on how to run the game?
 
 # Useful Links
